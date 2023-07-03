@@ -94,37 +94,3 @@ while "-" in display:
             lives +=1
     
         
-
-
-
-
-
-
-
-# if chosen_word_list[n] == guess:
-#             chosen_word_list[n] = guess
-            
-#         else:
-#             chosen_word_list[n] = "-"
-
-#     chosen_word_list_for = chosen_word_list
-#     print(chosen_word_list_for)   
-            
-#     a += 1
-    
-#     guess = (input('enter your letter: ')).lower()
-
-
-
-# display2 = []
-
-# for letter in chosen_word_list:
-#     if letter == guess:
-#         print("Yes")
-#         display2.append(letter)
-#     else:
-#         print("No")
-#         display2.append('-')
-        
-        
-# print(display2)
